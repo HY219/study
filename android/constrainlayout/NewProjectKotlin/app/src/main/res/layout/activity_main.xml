@@ -20,7 +20,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toLeftOf="@+id/AppCompatButton2"
         android:text="123"
-        android:textSize="30dp"
+        android:textSize="40dp"
         />
 
 <!--    android:layout_width="wrap_parent"-->
