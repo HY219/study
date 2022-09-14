@@ -4,10 +4,15 @@ plugins {
 }
 
 android {
-//   view binding 사용하기
+    //view binding 사용하기
     viewBinding {
         enabled = true
     }
+    //dataBinding 요소를 추가한다.
+    dataBinding{
+        enabled = true
+    }
+
     compileSdk 32
 
     defaultConfig {
