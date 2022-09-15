@@ -1,7 +1,3 @@
-//package com.example.imagesaveexampleproject.model
-//
-//class MainViewModel {
-//}
 package com.example.imagesaveexampleproject.model
 
 import android.view.View
